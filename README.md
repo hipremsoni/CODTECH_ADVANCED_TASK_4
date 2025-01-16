@@ -1,7 +1,15 @@
 # CODTECH_ADVANCED_TASK_4
 # Advanced Encryption Tool
 ---
-
+#Personal Details 
+---
+- Name : Premkumar Soni
+- Company : CODTECH IT SOLUTIONS PVT.LTD
+- ID : CT08DBS
+- Domain : Cyber Security & Ethical Hacking
+- Duration: 20th Dec 2024 To 20th Jan 2025
+- Mentor : Neela Santhosh kumar
+---
 ## Introduction
 The **Advanced Encryption Tool** is a secure application designed to encrypt and decrypt files using the AES algorithm with customizable hash algorithms. This tool provides both a command-line and a graphical user interface (GUI) for seamless file encryption and decryption.
 
@@ -38,8 +46,8 @@ Ensure Python 3.7 or higher is installed on your system.
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd AdvancedEncryptionTool
+   git clone https://github.com/hipremsoni/CODTECH_ADVANCED_TASK_4.git
+   cd CODTECH_ADVANCED_TASK_4
    ```
 2. Install required dependencies:
    ```bash
@@ -77,7 +85,14 @@ Ensure Python 3.7 or higher is installed on your system.
 ---
 
 ## Screenshots
-*Coming Soon*
+
+- **For CLI**
+![Screenshot 2025-01-16 160420](https://github.com/user-attachments/assets/f0be0609-1038-4b9a-8995-f3629db99115)
+
+- **For GUI**
+![Screenshot 2025-01-16 160524](https://github.com/user-attachments/assets/e1da6ec3-3ab2-4499-87ac-e5f258664a22)
+
+
 
 ---
 
